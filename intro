@@ -1,0 +1,10 @@
+features:
+- add a todo
+- toggle single/more items
+- toggle all at once
+- edit todo
+- delete todo
+
+later:
+* filter
+* save data
